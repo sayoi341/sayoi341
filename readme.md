@@ -14,11 +14,18 @@
 
 ## 勉強中
 * ### C
+
 * ### Unity
+
     * ### C#
+
 * ### Python
     * ### Flask
+    
+    * ### FastAPI
+    
 * ### HTML&CSS
+
 * ### JavaScript
 
 * ### セキュリティ（予定）
