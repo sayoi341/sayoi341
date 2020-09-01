@@ -10,29 +10,33 @@
     * ### ダンス　全国大会出場
     * ### レスキュー　関東大会出場
 
-* ### ***クソガキ***
+* #### ***クソガキ***
+* ####
 
 ## 勉強中
-* ### C
+* #### C
 
-* ### Unity
+* #### Unity
 
-    * ### C#
+    * #### C#
 
-* ### Python
-    * ### Flask
-    
-    * ### FastAPI
-    
-* ### HTML&CSS
+* #### Python
+    * #### Flask
 
-* ### JavaScript
+    * #### FastAPI
 
-* ### セキュリティ（予定）
+* #### HTML&CSS
+
+* #### JavaScript
+
+* #### React.js
+
+* #### セキュリティ（予定）
 
 ## 製作中
 * ### Unityを使ってスマホで東方
 * ### 自身のマイクラサーバーを紹介するホームページ
+* ### 自己紹介ページ
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
