@@ -23,8 +23,6 @@
 * #### Python
     * #### Flask
 
-    * #### FastAPI
-
 * #### HTML&CSS
 
 * #### JavaScript
