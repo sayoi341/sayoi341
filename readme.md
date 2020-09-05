@@ -29,14 +29,16 @@
 
 * #### JavaScript
 
-* #### React.js
+    * #### React.js
 
 * #### セキュリティ（予定）
 
 ## 製作中
 * ### Unityを使ってスマホで東方
+
 * ### 自身のマイクラサーバーを紹介するホームページ
-* ### 自己紹介ページ
+
+* ### githubpagesとReact.jsで自己紹介ページ
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
