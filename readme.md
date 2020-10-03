@@ -10,38 +10,28 @@
     * ### ダンス　全国大会出場
     * ### レスキュー　関東大会出場
 
-* #### ***クソガキ***
-
-* #### リポジトリ消去魔
+* ***クソガキ***
+* リポジトリ消去魔
 
 * ### プログラミング歴：カス
 
 
 
 ## 勉強中
-* #### C
-
-* #### Unity
-
-    * #### C#
-
-* #### Python
-    * #### Flask
-
-* #### HTML&CSS
-
-* #### JavaScript
-
-    * #### React.js
-
-* #### セキュリティ（予定）
+* C
+* Unity
+    * C#
+* Python
+    * Flask
+* HTML&CSS
+* JavaScript
+    * React.js
+* セキュリティ（予定）
 
 ## 製作中
-* ### Unityを使ってスマホで東方
-
-* ### 自身のマイクラサーバーを紹介するホームページ
-
-* ### githubpagesとReact.jsで自己紹介ページ
+* Unityを使ってスマホで東方
+* 自身のマイクラサーバーを紹介するホームページ
+* githubpagesとReact.jsで自己紹介ページ
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
