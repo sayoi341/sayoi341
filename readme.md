@@ -1,39 +1,44 @@
 # sayoi341
 
-## 事故紹介
-
+## Self-introduction
 ![kosen20s](https://img.shields.io/badge/kosen-20s-black?style=for-the-badge)
 ![age](https://img.shields.io/badge/age-16-green?style=for-the-badge)
 ![school](https://img.shields.io/badge/school-NIT,%20Ibaraki%20College-8d2d3f?style=for-the-badge)
+[![twitter](https://img.shields.io/badge/-@_Emiya_Saber-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Emiya_Saber)](https://twitter.com/_Emiya_Saber)
 
-* ### ロボカップジュニア
+## Studying
 
-* ### ダンス 全国大会出場
+### languages
+![c](https://img.shields.io/badge/-c-5A318F?style=for-the-badge&labelColor=5a318f&logo=c)
 
-* ### レスキュー 関東大会出場
 
-* ***クソガキ***
-* リポジトリ消去魔
+![html5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=white&logo=HTML5)
 
-* ### プログラミング歴：カス
 
-## 勉強中
+![css3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=1572B6&logo=CSS3)
 
-* C
-* Unity
-  * C#
-* Python
-  * Flask
-* HTML&CSS
-* JavaScript
-  * React.js
-* セキュリティ（予定）
 
-## 製作中
+![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=000000&logo=JavaScript)
 
-* Unityを使ってスマホで東方
-* 自身のマイクラサーバーを紹介するホームページ
-* githubpagesとReact.jsで自己紹介ページ
+
+![typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=ffffff&logo=typescript)
+
+### other
+![unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&labelColor=000000&logo=Unity)
+
+
+![react](https://img.shields.io/badge/-React-282C34?style=for-the-badge&labelColor=282C34&logo=react)
+
+
+![bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&labelColor=ffffff&logo=Bulma)
+
+### use
+
+![jetbrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&labelColor=000000&logo=JetBrains)
+
+
+![windowsterminal](https://img.shields.io/badge/-Windows Terminal-4D4D4D?style=for-the-badge&labelColor=4D4D4D&logo=Windows Terminal)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sayoi341&count_private=true&show_icons=true" />
