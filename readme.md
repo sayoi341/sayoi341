@@ -37,8 +37,6 @@
 ![jetbrains](https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&labelColor=000000&logo=JetBrains)
 
 
-![windowsterminal](https://img.shields.io/badge/-Windows Terminal-4D4D4D?style=for-the-badge&labelColor=4D4D4D&logo=Windows Terminal)
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sayoi341&count_private=true&show_icons=true" />
