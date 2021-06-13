@@ -2,7 +2,7 @@
 
 ## Self-introduction
 ![kosen20s](https://img.shields.io/badge/kosen-20s-black?style=for-the-badge)
-![age](https://img.shields.io/badge/age-16-green?style=for-the-badge)
+![age](https://img.shields.io/badge/age-17-green?style=for-the-badge)
 ![school](https://img.shields.io/badge/school-NIT,%20Ibaraki%20College-8d2d3f?style=for-the-badge)
 [![twitter](https://img.shields.io/badge/-@_Emiya_Saber-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Emiya_Saber)](https://twitter.com/_Emiya_Saber)
 
@@ -39,8 +39,9 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sayoi341&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sayoi341&count_private=true&show_icons=true&theme=gotham" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayoi341" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayoi341&theme=gotham" />
 </a>
+
